@@ -1,0 +1,8 @@
+X=MsgBox("you dow all music.exe?",4+16,"RUN")
+X=MsgBox("yay i'm ok the antivarious in noob",1+16,"???")
+X=MsgBox("plz dow the virous.exe",4+16,"plz")
+X=MsgBox("you dow music",4+16,"haha")
+X=MsgBox("the music is fake you dow all the virous",0+16,"haha")
+X=MsgBox("????",3+16,"i'm noob")
+X=MsgBox("you cancel the virous.exe?",3+16,"ahhh")
+X=MsgBox("error",5+16,"server is error")
